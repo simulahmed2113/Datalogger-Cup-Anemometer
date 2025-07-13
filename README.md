@@ -40,6 +40,15 @@ Ensure the following Arduino libraries are installed:
 - `LiquidCrystal.h` (for LCD display)
 - `Keypad.h` (for key matrix input)
 
+---
+
+### 📷 Data Logger Project Photos
+
+![Datalogger Front View](Image/datalogger.jpg)  
+![Data Collection Setup](Image/data_collection_setup.jpg)
+
+---
+
 ## Future Improvements
 - Add data transmission via WiFi/Bluetooth
 - Implement graphical data visualization on LCD
